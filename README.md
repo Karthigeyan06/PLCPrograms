@@ -5,6 +5,6 @@ A collection of ladder logics for PLCs
 
 Files Description:-
 -------------------
-CONVBELT --> A Conveyor Belt that counts the input component
+CONVBELT --> A Conveyor Belt that counts the input component \n
 CRANEMOVEMENT --> Ladder Logic for 3 axis crane movement
 OILLEVEL --> Logic to maintain the oil level between two level sensors
